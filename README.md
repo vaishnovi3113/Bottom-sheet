@@ -48,7 +48,7 @@ src/
   
   └── index.js     # React entry point
   
-##🔧 Available Scripts:
+## 🔧 Available Scripts:
 
 npm start	Starts dev server
 
@@ -58,7 +58,7 @@ npm run build	Creates optimized production build
 
 npm run eject	Caution: Ejects Create React App config
 
-##📝 Notes:
+## 📝 Notes:
 
 Browser Support: Chrome, Firefox, Safari, Edge
 
