@@ -1,6 +1,6 @@
 # Bottom Sheet 
 ## 🚀 Local Setup Instructions
-
+## here's the deployment link for preview: https://bottom-sheet-32ng.vercel.app/
 ### Prerequisites
 
 Node.js (v16 or later)
